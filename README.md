@@ -3,12 +3,6 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=namtphan alt=namtphan/> <img 
 src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan" /> </p>
 
-<center>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/namtphan2/)
-
-</center>
-
 - 🔭 I’m currently working on **my side projects**
 
 - 🌱 I’m currently learning **Kotlin, Flutter, Vue**
@@ -19,7 +13,7 @@ src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan"
 
 - 💬 Ask me about **development, gadgets or anything else**
 
-- 📫 How to reach me **namtphann@gmail.com**
+- 📫 How to reach me **namtphann@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/namtphan2/)**
 
 - ⚡ Fun fact **I'm a developer who don't drink coffee☕ very often :)**
 <br/><br/><h4 align="center">Languages & Tools</h4>
@@ -28,5 +22,8 @@ src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan"
 <!-- Most used languages stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namtphan&layout=compact)](https://github.com/namtphan2/github-readme-stats) -->
 
+<details>
+<summary> Programming Stats:</summary>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</details>
