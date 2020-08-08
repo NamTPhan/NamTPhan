@@ -5,13 +5,13 @@ src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan"
 
 - 🔭 I’m currently working on **my side projects**
 
-- 🌱 I’m currently learning **Kotlin, Flutter, Vue**
+- 🌱 I’m currently learning **Kotlin, Flutter** and I'm also experimenting with some **front-end frameworks**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
 - 👨‍💻 All of my projects are available at [https://namtphan.github.io](https://namtphan.github.io) (Under Construction)
 
-- 💬 Ask me about **development, gadgets or anything else**
+- 💬 Ask me about **software development or anything else :)**
 
 - 📫 How to reach me **namtphann@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/namtphan2/)**
 
