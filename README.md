@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nam Phan</h1>
-<h3 align="center">I like experimenting with new technologies and working on web/mobile apps,<br/>but also things related to AR and Big Data.</h3>
+<h3 align="center">I like experimenting with new technologies and working on web/mobile apps.</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=namtphan alt=namtphan/> <img 
 src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan" /> </p>
 
@@ -13,7 +13,7 @@ src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan"
 
 - 💬 Ask me about **software development or anything else :)**
 
-- 📫 How to reach me **namtphann@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/namtphan2/)**
+- 📫 How to reach me **[e-mail](mailto:namtphann@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/namtphan2)**
 
 - ⚡ Fun fact **I'm a developer who don't drink coffee☕ very often :)**
 <br/><br/><h4 align="center">Languages & Tools</h4>
