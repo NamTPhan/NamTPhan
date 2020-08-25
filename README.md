@@ -11,8 +11,6 @@ src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan"
 
 - 👨‍💻 All of my projects are available at [https://namtphan.github.io](https://namtphan.github.io) (Under Construction)
 
-- 💬 Ask me about **software development or anything else :)**
-
 - 📫 How to reach me **[e-mail](mailto:namtphann@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/namtphan2)**
 
 - ⚡ Fun fact **I'm a developer who don't drink coffee☕ very often :)**
