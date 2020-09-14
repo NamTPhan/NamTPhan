@@ -5,7 +5,7 @@ src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan"
 
 - 🔭 I’m currently working on **my side projects**
 
-- 🌱 I’m currently focussing on **Kotlin, React, Flutter**
+- 🌱 I’m currently focussing on **Kotlin, React(Native), Flutter**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
