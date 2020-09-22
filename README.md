@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nam Phan</h1>
-<h3 align="center">I like experimenting with new technologies and working on web/mobile apps.</h3>
+<h3 align="center">I like experimenting with new technologies and working on mobile & web apps.</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=namtphan alt=namtphan/> <img 
 src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan" /> </p>
 
@@ -11,7 +11,7 @@ src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan"
 
 - 👨‍💻 All of my projects are available at **[namtphan.github.io](https://namtphan.github.io)**
 
-- 📫 How to reach me **[e-mail](mailto:namtphann@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/namtphan2)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/namtphan2)**
 
 - ⚡ Fun fact **I'm a developer who don't drink coffee☕ very often :)**
 <br/><br/><h4 align="center">Languages & Tools</h4>
