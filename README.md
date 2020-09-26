@@ -3,13 +3,11 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=namtphan alt=namtphan/> <img 
 src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan" /> </p>
 
-- 🔭 I’m currently working on **my side projects**
+- 🔭 I’m currently working on **my school & side projects**
 
 - 🌱 I’m currently focussing on **Kotlin, React(Native), Flutter**
 
 - 👯 I’m looking to collaborate on **any interesting project**
-
-- 👨‍💻 All of my projects are available at **[namtphan.github.io](https://namtphan.github.io)**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/namtphan2)**
 
