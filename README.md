@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nam Phan</h1>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=namtphan alt=namtphan/> <img 
-src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan" /> </p>
+src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan" />
+</p>
 
-- 🔭 I’m currently working on **my school & side projects**
+Hi 👋, I'm Nam, I'm a software engineering student at the Amsterdam University of Applied Sciences. I am currently working on some side projects, a startup idea (with some fellow students) and learning some new coding stuff like Kotlin and Flutter. 
 
-- 🌱 I’m currently focussing on **Kotlin, React(Native), Flutter**
+<a href="https://www.linkedin.com/in/namtphan2/"><img src="https://img.shields.io/badge/-@namtphan2-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/namtphan2/" alt="LinkedIn Badge"></a> 
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/namtphan2)**
-
-- ⚡ Fun fact **I'm a developer who don't drink coffee☕ very often :)**
+⚡ Fun fact: **I'm a developer who don't drink coffee☕ very often**
 
 <details>
 <summary>Programming Stats</summary>
