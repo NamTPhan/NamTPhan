@@ -10,6 +10,8 @@ src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan"
 
 - ⚡ Fun fact **I'm a developer who don't drink coffee☕ very often :)**
 
+<details>
+<summary>Programming Stats</summary>
 <!-- Most used languages stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namtphan&layout=compact)](https://github.com/namtphan2/github-readme-stats) -->
   
@@ -47,4 +49,4 @@ Mac                      12 hrs 13 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-
+</details>
