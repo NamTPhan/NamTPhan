@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nam Phan</h1>
-<h3 align="center">I like experimenting with new technologies and working on mobile & web apps.</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=namtphan alt=namtphan/> <img 
 src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan" /> </p>
 
 - 🔭 I’m currently working on **my school & side projects**
 
 - 🌱 I’m currently focussing on **Kotlin, React(Native), Flutter**
-
-- 👯 I’m looking to collaborate on **any interesting project**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/namtphan2)**
 
