@@ -6,8 +6,6 @@ Hi 👋, I'm Nam, I'm a software engineering student at the Amsterdam University
 
 <a href="https://www.linkedin.com/in/namtphan2/"><img src="https://img.shields.io/badge/-@namtphan2-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/namtphan2/" alt="LinkedIn Badge"></a> 
 
-⚡ Fun fact: **I'm a developer who don't drink coffee☕ very often**
-
 <details>
 <summary>Programming Stats</summary>
 <!-- Most used languages stats -->
