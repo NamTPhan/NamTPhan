@@ -2,7 +2,7 @@
 src="https://img.shields.io/github/last-commit/namtphan/namtphan" alt="namtphan" />
 </p>
 
-Hi 👋, I'm Nam, I'm a software engineering student at the Amsterdam University of Applied Sciences. I am currently working on some side projects, a startup idea (with some fellow students) and learning some new coding stuff like Kotlin and Flutter. 
+Hi 👋, I'm Nam, I'm a software engineering student at the Amsterdam University of Applied Sciences. I am currently working on some side projects and learning some new coding stuff like Kotlin and Flutter. 
 
 <a href="https://www.linkedin.com/in/namtphan2/"><img src="https://img.shields.io/badge/-@namtphan2-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/namtphan2/" alt="LinkedIn Badge"></a> 
 
