@@ -22,7 +22,8 @@ I'm a Software Engineering student at the Amsterdam University of Applied Scienc
 ⌚︎ Time Zone: Europe/Amsterdam
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 35 mins       █████████████████████████   99.68% 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 💻 Operating System: 
 Mac                      2 hrs 35 mins       █████████████████████████   100.0%
