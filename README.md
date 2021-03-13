@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://namtphan.github.io/">Nam</a></h2>
-I'm a Software Engineering student at the Amsterdam University of Applied Sciences. I am currently working on some side projects and learning some new coding stuff.
+I'm a Software Engineering student at the AUAS and currently working on my graduation internship assignment.
 <br/><br/>
 <!-- Most used languages stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namtphan&layout=compact)](https://github.com/namtphan2/github-readme-stats) -->
