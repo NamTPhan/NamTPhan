@@ -22,13 +22,13 @@ I'm a Software Engineering student at the AUAS and currently working on my gradu
 ⌚︎ Time Zone: Europe/Amsterdam
 
 🔥 Editors: 
-VS Code                  10 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 16 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      10 hrs 39 mins      █████████████████████████   100.0%
+Mac                      11 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/06/2021
+ Last Updated on 12/06/2021
 <!--END_SECTION:waka-->
